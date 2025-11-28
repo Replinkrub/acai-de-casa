@@ -1,5 +1,3 @@
-// src/lib/constants/products.ts
-
 export type ToppingOption = {
   id: string
   name: string
